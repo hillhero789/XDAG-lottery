@@ -1,0 +1,2 @@
+# XDAG-lottery
+XDAG lottery
