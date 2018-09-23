@@ -1,4 +1,4 @@
-# XDAG-lottery
+# XDAG lottery
 # Rules:
 1. There are 1000 XDAGs in the initial bonus pool. Users should transfer 100 XDAGs into the given address(  https://explorer.xdag.io/block/SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X ) at a time, it is equivalent to buying a lottery. You can make multiple transfers(just like buying multiple lotteries).
 
@@ -11,6 +11,7 @@
 5. Winners must join in discord or telegram group ( https://discord.gg/YxXUVQJ or https://t.me/dagger_cryptocurrency or https://t.me/XDAG_CN ), and must say something before they can be rewarded.
 
 
+# XDAG彩票游戏
 # 规则：
 1. 初始奖池有1000个XDAG，用户每次向指定地址( https://explorer.xdag.io/block/SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X )打入100个币相当于购买一张彩票，打入次数不限(允许购买多张彩票)。
 
