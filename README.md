@@ -10,6 +10,7 @@
 
 5. Winners must join in discord or telegram group ( https://discord.gg/YxXUVQJ or t.me/dagger_cryptocurrency or t.me/XDAG_CN ), and must say something before they can be rewarded.
 
+
 # 规则：
 1. 初始奖池有1000个XDAG，用户每次向指定地址( explorer.xdag.io/block/SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X )打入100个币相当于购买一张彩票，打入次数不限(允许购买多张彩票)。
 
