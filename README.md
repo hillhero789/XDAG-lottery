@@ -10,7 +10,7 @@
 
 5. Winners must join in discord or telegram group ( https://discord.gg/YxXUVQJ or https://t.me/dagger_cryptocurrency or https://t.me/XDAG_CN ), and must say something before they can be rewarded.
 
-![Image text] https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG%20lottery.gif
+![Image text]https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG%20lottery.gif
 
 # XDAG彩票游戏
 # 规则：
