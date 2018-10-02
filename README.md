@@ -1,5 +1,7 @@
 # XDAG lottery
 # Rules:
+<center>![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/Brief%20introduction%20of%20rules.PNG)</center>
+
 1. There are 1000 XDAGs in the initial bonus pool. Users should transfer 100 XDAGs into the given address(  https://explorer.xdag.io/block/SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X ) at a time, it is equivalent to buying a lottery. You can make multiple transfers(just like buying multiple lotteries).
 
 2. 80% of the bonus pool is for reward, the remaining 20% will became all ( when more then 1000 XDAGs ) or part ( when less than 1000 XDAGs ) of the bonus pool for next phase.
@@ -11,8 +13,6 @@
 5. Winners must join in discord or telegram group ( https://discord.gg/YxXUVQJ or https://t.me/dagger_cryptocurrency or https://t.me/XDAG_CN ), and must say something before they can be rewarded.
 
 ![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG%20lottery%20calculator%20example.PNG)
-
-![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/Brief%20introduction%20of%20rules.PNG)
 
 # XDAG彩票游戏
 # 规则：
