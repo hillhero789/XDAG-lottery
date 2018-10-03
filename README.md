@@ -18,4 +18,4 @@
 ![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.png)
 
 ## Calculator:
-https://github.com/hillhero789/XDAG-lottery/blob/master/xdag_lottery_calculator.rar
+https://github.com/hillhero789/XDAG-lottery/blob/master/xdag_lottery_calculator.XLS
