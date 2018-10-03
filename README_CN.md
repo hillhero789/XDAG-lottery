@@ -1,4 +1,4 @@
-# XDAG彩票游戏
+# XDAG彩票游戏（彩票地址：SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X）
 # 规则：
 ![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/Brief_introduction_of_rules_cn.PNG)
 
