@@ -15,7 +15,7 @@
 5. Winners must join in discord or telegram group ( https://discord.gg/YxXUVQJ or https://t.me/dagger_cryptocurrency or https://t.me/XDAG_CN ), and must say something before they can be rewarded.
 
 ## Example of calculation:
-![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.png)
+![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.PNG)
 
 ## Calculator:
-https://github.com/hillhero789/XDAG-lottery/blob/master/xdag_lottery_calculator.XLS
+https://github.com/hillhero789/XDAG-lottery/blob/master/xdag_lottery_calculator.xls
