@@ -13,4 +13,4 @@
 
 5. 获胜者需到Discord或电报群( https://discord.gg/YxXUVQJ or https://t.me/dagger_cryptocurrency or https://t.me/XDAG_CN )发表获奖感言后才能获得奖励。
 
-![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG%20lottery%20calculator%20example.PNG)
+![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.PNG)
