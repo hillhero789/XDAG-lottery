@@ -1,6 +1,6 @@
 # XDAG彩票游戏
 # 规则：
-![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/%E8%A7%84%E5%88%99%E7%AE%80%E4%BB%8B.PNG)
+![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/%E8%A7%84%E5%88%99%E7%AE%80%E4%BB%8B1.PNG)
 
 1. 初始奖池有1000个XDAG，用户每次向指定地址( https://explorer.xdag.io/block/SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X )打入100个币相当于购买一张彩票，打入次数不限(允许购买多张彩票)。
 
