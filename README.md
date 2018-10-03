@@ -15,3 +15,6 @@
 
 ## Example of calculation:
 ![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.PNG)
+
+## Calculator:
+https://github.com/hillhero789/XDAG-lottery/blob/master/xdag_lottery_calculator.xls
