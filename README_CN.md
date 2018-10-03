@@ -15,3 +15,6 @@
 
 ## 获奖计算结果示例：
 ![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.PNG)
+
+## 奖励计算器
+https://github.com/hillhero789/XDAG-lottery/blob/master/xdag_lottery_calculator.rar
