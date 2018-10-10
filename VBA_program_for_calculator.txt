@@ -1,4 +1,4 @@
-Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
+﻿Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
 
     j = 0
     k = 0
@@ -19,7 +19,7 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
     
     Dim rng As Range
     
-    '以下循环语句用于将B列为空白的行移动至最末尾
+    '以下循环语句用于提取传输哈希中的数字，同时计算传输值   get numbers in Tx hash, Calculate the TRX VAL
     rowNum = [A65536].End(3).Row
     For j = rowNum To 2 Step -1
     
@@ -38,17 +38,6 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
         
         Cells(j, 2) = hashNumStr
         Cells(j, 3) = hashVal
-    
-        If Cells(j, 2) = "" Then
-            Cells(j, 3) = 0
-            If isLastRowMark Then
-                Rows(j).Cut
-                Rows(lastrow + 1).Insert
-            End If
-        Else
-            If isLastRowMark = False Then lastrow = j
-            isLastRowMark = True
-        End If
     Next
 
     '以下语句用于对传输值计算结果进行倒序排序     sort the result
@@ -77,5 +66,5 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
         Cells(k, 4) = (Cells(k, 3) / mySum) * bonusTotal
     Next
     
-    Cells(2, 5) = bonusPool & " + " & bonusTotal / bonusRate - bonusPool
+    Cells(2, 6) = bonusPool & " + " & bonusTotal / bonusRate - bonusPool
 End Sub
