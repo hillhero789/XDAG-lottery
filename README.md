@@ -9,7 +9,7 @@
 2. 80% of the bonus pool is for reward, the remaining 20% will became all ( when more then 500 XDAGs ) or part ( when less than 500 XDAGs ) of the bonus pool for next phase.
 
 3. Winning Rule:
-# the one who makes the last transaction get 30% of all bonuses.
+#### the one who makes the last transaction get 30% of all bonuses.
 Remaining bonuses distribute as follow:
 Remove the non-numeric characters from the transfer hash generated when you transfer XDAG, and the bigger the sum of all the digits ( TRX VAL for short ), the higher the ranking. the top 20% of all TRX VAL will get bonus. The bonus is allocated according to the TRX VAL weight of all the winning TRX VAL .
 
