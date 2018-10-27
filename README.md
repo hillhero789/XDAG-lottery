@@ -1,7 +1,7 @@
 # XDAG lottery
 #### Game wallet:  SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X
 # Rules:
-![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/Brief_introduction_of_rules.PNG)
+![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/Brief_introduction_of_rules.png)
 
 ## Details:
 1. There are 500 XDAGs in the initial bonus pool. Users should transfer <b>20</b> XDAGs into the given address(  https://explorer.xdag.io/block/SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X ) at a time, it is equivalent to buying a lottery. You can make multiple transfers(just like buying multiple lotteries).
