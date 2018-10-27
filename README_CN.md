@@ -9,16 +9,11 @@
 2. 奖池金额的80%作为奖金，剩余20%作为下期彩票奖池，若少于500，将重新补足500。
 
 3. 获胜规则：
-最后参与者获得奖金的30%，剩余奖奖金分配如下：
-将转币时交易传输哈希值中的非数字字符去掉，将所有数字相加得到的数值（简称传输值）越大则排名越靠前，所有传输值中排名前20%者均可参与奖金分配，奖金按传输值的权重进行分配，示例见：获奖计算结果示例。
+# 最后参与者获得奖金的30%。
+剩余奖奖金分配如下（最后参与者不参与此奖金分配）：
+转币时交易传输哈希值中的非数字字符去掉，将所有数字相加得到的数值（简称传输值）越大则排名越靠前，所有传输值中排名前20%者均可参与奖金分配，奖金按传输值的权重进行分配，示例见：获奖计算结果示例。
 
-4. 未中奖者下期可购买一张半价彩票即10个币即可（仅限一张）。 
-
-5. 游戏开始时间在Discord及电报群( https://discord.gg/YxXUVQJ and https://t.me/dagger_cryptocurrency and https://t.me/XDAG_CN )公布，初始时间是24小时，当有一个人购买彩票时
-
-每局开始和结束时间会在Discord及电报群( https://discord.gg/YxXUVQJ and https://t.me/dagger_cryptocurrency and https://t.me/XDAG_CN )公布。
-
-6. 获胜者需到Discord或电报群( https://discord.gg/YxXUVQJ or https://t.me/dagger_cryptocurrency or https://t.me/XDAG_CN )发表获奖感言后才能获得奖励。
+4. 游戏开始时间在Discord及电报群( https://discord.gg/YxXUVQJ and https://t.me/dagger_cryptocurrency and https://t.me/XDAG_CN )公布，每收到一笔转账游戏结束时间向后延迟24小时（以转账记录的 <b>UTC</b> 时间为准向后延迟24小时）
 
 ## 获奖计算结果示例：
 ![Image text](https://github.com/hillhero789/XDAG-lottery/blob/master/XDAG_lottery_calculator_example.PNG)

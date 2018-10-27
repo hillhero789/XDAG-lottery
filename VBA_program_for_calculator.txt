@@ -12,9 +12,9 @@
     hashNumStr = ""
     
     bonusNumRate = 0.2         '获奖人数占比
-    bonusRate = 0.8            '获金占奖金池总额比例
+    bonusRate = 0.8 * 0.7      '获金占奖金池总额比例
     bonusNum = 0               '获奖人数初始化，获奖人数为获奖比例乘以总参与传输值数量（向上取整）
-    bonusPool = 1000           '初始奖池金额
+    bonusPool = 500            '初始奖池金额
     bonusTotal = 0             '总奖金
     
     Dim rng As Range
@@ -56,7 +56,7 @@
     '计算奖励值     calculate the bonus
     bonusNum = (rowNum - 1) * bonusNumRate
     If bonusNum > Int(bonusNum) Then bonusNum = Int(bonusNum) + 1   '获奖人数
-    bonusTotal = (bonusPool + (rowNum - 1) * 100) * bonusRate        '总奖金
+    bonusTotal = (bonusPool + rowNum * 20) * bonusRate        '总奖金
     
     For k = 2 To bonusNum + 1      '计算总权值
         mySum = mySum + Cells(k, 3)
