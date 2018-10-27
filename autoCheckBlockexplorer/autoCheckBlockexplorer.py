@@ -9,8 +9,8 @@ import xlwings as xw
 workbook = xw.Book(r'./Tx.xls')     
 xlGridIndex = 1
 roundIndex = 0                     
-lotteryPrice = 0.001                                #彩票价格           
-preLastTx = 'w9uZCcIjcLk3h5ER8pgKhM4F0ZDlM0ko'      #该哈希值为钱包当前最后一次交易哈希
+lotteryPrice = 20                                #彩票价格           
+preLastTx = 'ZWTjarw8k0CyTldDqzxZPfVdyUx9fh8g'      #该哈希值为钱包当前最后一次交易哈希
 lastTX = preLastTx            
 delayTime = [24]                                    #每次收到转账时的延时时间。  
 startTime = datetime.datetime.strptime('2018-10-27 14:00:00', "%Y-%m-%d %H:%M:%S")  #游戏开始 UTC 时间 
