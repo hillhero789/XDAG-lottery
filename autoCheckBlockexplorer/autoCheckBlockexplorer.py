@@ -6,7 +6,8 @@ import datetime
 from selenium.common.exceptions import NoSuchElementException
 import xlwings as xw
 #################以下数据需进行初始化#################
-workbook = xw.Book(r'./Tx.xls')     
+filepath=r'D:\xdag_lottery\XDAG-lottery\autoCheckBlockexplorer\tx.xls'
+workbook = xw.Book(filepath)     
 xlGridIndex = 1
 roundIndex = 0                     
 lotteryPrice = 20                                #彩票价格           
@@ -18,7 +19,7 @@ lastTxTime =  startTime                                                 #最后�
 endTime = startTime + datetime.timedelta(hours=24)                      #游戏结束时间
 #################以上数据需进行初始化#################
 
-c = webdriver.Chrome()
+c = webdriver.Chrome(r'D:\xdag_lottery\XDAG-lottery\autoCheckBlockexplorer\chromedriver.exe')
 
 while True:
     c.get('http://xdagscan.com/cnblockDetails.html?address=SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X')   #读取页面数据
