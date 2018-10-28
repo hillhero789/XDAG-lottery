@@ -20,7 +20,7 @@ lastTxTime =  startTime                                                 #最后�
 endTime = startTime + datetime.timedelta(hours=24)                      #游戏结束时间
 #################以上数据需进行初始化#################
 
-c = webdriver.Chrome(r'D:\xdag_lottery\XDAG-lottery\autoCheckBlockexplorer\chromedriver.exe')
+c = webdriver.Firefox()
 
 while True:
     c.get('http://xdagscan.com/cnblockDetails.html?address=SNiOG7aUUyZ3QmSl87T0CsUezb5C5l5X')   #读取页面数据
@@ -42,6 +42,7 @@ while True:
         workbook.save()
                                                                                                             #endTim加10分钟是考虑转账到浏览器显示
     if (datetime.datetime.now()) + datetime.timedelta(hours=-8) > endTime + datetime.timedelta(minutes=10): #减8小时就是转换为 UTC 时间
+        workbook.sheets('Sheet1').range('D'+str(xlGridIndex-1)).value = 'lastTx win 30%'
         break
     time.sleep(60)
     #内存回收
