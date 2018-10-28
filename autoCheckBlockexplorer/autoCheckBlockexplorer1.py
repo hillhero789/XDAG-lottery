@@ -7,7 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 import xlwings as xw
 import gc
 #################以下数据需进行初始化#################
-filepath=r'D:\xdag_lottery\XDAG-lottery\autoCheckBlockexplorer\tx.xls'
+filepath=r'D:\xdag_lottery\XDAG-lottery\autoCheckBlockexplorer\Tx.xls'
 workbook = xw.Book(filepath)     
 xlGridIndex = 1
 roundIndex = 0                     
